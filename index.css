@@ -2,6 +2,8 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
+    font-style: Abril Fatface;
+    line-height: 2.2rem;
 }
 body{
     background-color: rgba(211, 211, 211, 0.845);
@@ -15,7 +17,7 @@ body{
 }
 #testo-header{
     font-size: 70px;
-    font-style:serif;
+    font-style: Abril Fatface;
     vertical-align: top;
     text-align: center;
     display: inline-block;
@@ -64,16 +66,13 @@ body{
 select{
     display: block;
     font-size: 30px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: Abril Fatface;
     text-decoration: none;
     margin: 30px;
 }
 li{
     margin: 30px;
     font-size: 15px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
-
 }
 .cerchio{
     background-color: rgb(3, 158, 214);
@@ -87,13 +86,13 @@ li{
     background-color: rgb(197, 71, 197);
 }
 .tre{
-    background-color: rgb(30, 135, 53)
+    background-color: rgb(62, 167, 85)
 }
 .quattro{
     background-color: rgb(226, 154, 19);
 }
 .cinque{
-    background-color: rgb(199, 141, 150)
+    background-color: rgb(219, 174, 181)
 }
 .sei{
     background-color: rgb(144, 205, 53)
@@ -118,4 +117,7 @@ li{
     margin: 5px;
     text-align: center;
     vertical-align: middle;
+}
+ul {
+    list-style-type:none;
 }
