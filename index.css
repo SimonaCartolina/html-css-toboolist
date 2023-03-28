@@ -2,20 +2,24 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
+    background-color: rgba(211, 211, 211, 0.845);
 }
-header{
+#header{
     height: 150px;
-    background-color: white;
     padding: 15px;
+    background-color: white;
+
 }
-#head{
+#testo-header{
     font-size: 70px;
     font-style:serif;
     vertical-align: top;
     text-align: center;
     display: inline-block;
+    background-color: white;
 }
 #img-header{
     height: 120px;
+    background-color: white;
     
 }
