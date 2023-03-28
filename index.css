@@ -25,9 +25,17 @@
 }
 .container-uno{
     background-color: white;
+    height: 100px;
+    width: 1000px;
+    margin: 50px 250px 2px 250px;
+    border-radius: 5px;
+}
+.container-due{
+    background-color: white;
     height: 1000px;
     width: 1000px;
-    margin: 50px 250px 25px 250px;
+    margin: 2px 250px 25px 250px;
     border-radius: 5px;
+
 }
 
