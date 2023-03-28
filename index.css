@@ -3,3 +3,19 @@
     padding:0;
     box-sizing: border-box;
 }
+header{
+    height: 150px;
+    background-color: white;
+    padding: 15px;
+}
+#head{
+    font-size: 70px;
+    font-style:serif;
+    vertical-align: top;
+    text-align: center;
+    display: inline-block;
+}
+#img-header{
+    height: 120px;
+    
+}
