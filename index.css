@@ -23,3 +23,11 @@
     background-color: white;
     
 }
+.container-uno{
+    background-color: white;
+    height: 1000px;
+    width: 1000px;
+    margin: 50px 250px 25px 250px;
+    border-radius: 5px;
+}
+
