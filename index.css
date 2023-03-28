@@ -69,10 +69,14 @@ select{
     font-style: Abril Fatface;
     text-decoration: none;
     margin: 30px;
+    border: none;
 }
 li{
     margin: 30px;
     font-size: 15px;
+}
+ul {
+    list-style-type:none;
 }
 .cerchio{
     background-color: rgb(3, 158, 214);
@@ -117,7 +121,4 @@ li{
     margin: 5px;
     text-align: center;
     vertical-align: middle;
-}
-ul {
-    list-style-type:none;
 }
