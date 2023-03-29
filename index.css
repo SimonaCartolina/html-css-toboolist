@@ -3,7 +3,6 @@
     padding:0;
     box-sizing: border-box;
     font-style: Abril Fatface;
-    line-height: 3rem;
 }
 body{
     background-color: rgba(211, 211, 211, 0.845);
@@ -79,6 +78,7 @@ li{
 ul {
     list-style-type:none;
     padding-left: .33rem;
+    line-height: 2.5rem;
 }
 .cerchio{
     background-color: rgb(3, 158, 214);
