@@ -13,6 +13,7 @@ body{
     height: 150px;
     padding: 15px;
     background-color: white;
+    border-bottom: 1px solid lightgray;
 
 }
 #testo-header{
@@ -86,6 +87,7 @@ ul {
     vertical-align: middle;
     text-align: center;
     padding:10px;
+    font-size: .85rem;
 }
 .due{
     background-color: rgb(197, 71, 197);
